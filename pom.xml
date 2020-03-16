@@ -3,7 +3,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>br.com.edilsonvilarinho</groupId>
     <artifactId>socket-server</artifactId>
-    <version>1.0.1</version>
+    <version>1.0.2-SNAPSHOT</version>
     <packaging>jar</packaging>
     <name>Socket Server</name>
     <description>Socket Server Library for Java</description>
@@ -19,7 +19,7 @@
         <url>https://github.com/edilsonvilarinho/socket-server</url>
         <connection>scm:git:https://github.com/edilsonvilarinho/socket-server.git</connection>
         <developerConnection>scm:git:https://github.com/edilsonvilarinho/socket-server.git</developerConnection>
-        <tag>socket-server-1.0.1</tag>
+        <tag>HEAD</tag>
     </scm>
     <developers>
         <developer>
