@@ -5,6 +5,7 @@
     <artifactId>socket-server</artifactId>
     <version>1.0.0-SNAPSHOT</version>
     <packaging>jar</packaging>
+    <name>Socket Server</name>
     <description>Socket Server Library for Java</description>
     <url>https://github.com/edilsonvilarinho/socket-server</url>
     <licenses>
