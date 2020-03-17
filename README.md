@@ -25,7 +25,10 @@ Add the following dependency to your `pom.xml`.
 Add it as a gradle dependency for Android Studio, in `build.gradle`:
 
 ```groovy
-implementation 'br.com.edilsonvilarinho:socket-server:1.0.1'
+dependencies {
+  //...
+  implementation 'br.com.edilsonvilarinho:socket-server:1.0.1'
+}
 ```
 
 ## Usage
